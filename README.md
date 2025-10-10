@@ -16,16 +16,19 @@ I worked with popular datasets from **Kaggle**:
 ---
 
 ## 🛠 What You’ll Find Here
-1. **📊 Data Acquisition using Pandas** – Import and handle datasets efficiently  
-2. **📈 Central Tendency Measures** – Mean, Median, Mode  
-3. **🗂 Basics of DataFrame** – Data manipulation and exploration  
-4. **❌ Missing Values Treatment** – Cleaning data  
-5. **🔢 Creation of Arrays using NumPy** – Fast computations  
-6. **📉 Data Visualization** – Graphical representation of data  
-7. **📏 Simple Linear Regression** – Predicting continuous values  
-8. **🎯 Logistic Regression** – Binary classification  
-9. **👥 K-Nearest Neighbors (KNN)** – Distance-based classification  
-10. **⚡ Support Vector Machine (SVM)** – Powerful classification techniques  
+
+1. **📊 Data Acquisition using Pandas** – Import and handle datasets efficiently
+2. **📈 Central Tendency Measures** – Mean, Median, Mode
+3. **🗂 Basics of DataFrame** – Data manipulation and exploration
+4. **❌ Missing Values Treatment** – Cleaning data
+5. **🔢 Creation of Arrays using NumPy** – Fast computations
+6. **📉 Data Visualization** – Graphical representation of data
+7. **📏 Simple Linear Regression** – Predicting continuous values
+8. **🎯 Logistic Regression** – Binary classification
+9. **👥 K-Nearest Neighbors (KNN)** – Distance-based classification
+10. **⚡ Support Vector Machine (SVM)** – Powerful classification techniques
+11. **🌳 Decision Tree** – Tree-based model for classification and regression
+12. **🌲 Random Forest Classifier** – Ensemble learning using multiple decision trees
 
 ---
 
